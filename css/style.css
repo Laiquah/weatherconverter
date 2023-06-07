@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rubik:wght@500&family=Ubuntu:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #e4c1f9;
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#container{
+    border: 4px solid #d0f4de;
+    background-color: #d0f4de;
+    color: black;
+    width: fit-content;
+    height: 70vh;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+input{
+    border-radius: 10px;
+    height: 30px;
+}
+
+button{
+    background-color: white;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 1rem;
+    padding: 5px;
+}
+
